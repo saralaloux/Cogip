@@ -1,6 +1,10 @@
 # Accounting application of the COGIP
 >Type of challenge: consolidation by [Becode](https://becode.org/fr/)
+
+
 [Github's link](https://github.com/Freyaln/Becode-training-exercices)
+
+[Go to the link](https://freyling-aurelien.be/PHP-Cogip//)
 
 ## The mission
 The COGIP is a company which we don't know an all lot about apart that they produce Jean-Michel toys and that they are serious workers check. They also have incredible employees within their rank.
@@ -20,7 +24,6 @@ We propose that you code a web application which will respond to the needs and d
 - Use of aliases in your SQL request
 - Implementation of a CRUD to read, add, modify and delete data
 
-[Go to the link](https://freyling-aurelien.be/PHP-Cogip//)
 
 ## Authors and work done by each one of us
 >[Arnaud Losson](https://github.com/ArnaudLosson)
