@@ -51,7 +51,7 @@ We propose that you code a web application which will respond to the needs and d
 - Provider page
 
 
-William Bady alias [@William1400](https://github.com/William1400) 
+> William Bady alias [@William1400](https://github.com/William1400) 
 
 - Company page & company/provider details page
 - Database creation with relations between tables
